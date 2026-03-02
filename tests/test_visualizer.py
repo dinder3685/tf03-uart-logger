@@ -10,6 +10,8 @@ class DummySerial:
         b = self._buf.read(size)
         self.in_waiting = len(self._buf.getvalue()) - self._buf.tell()
         return b
+    def close(self):
+        pass
 
 
 def test_visualizer_read(monkeypatch, tmp_path):
@@ -19,6 +21,8 @@ def test_visualizer_read(monkeypatch, tmp_path):
     data = b'\x59\x59' + frame1 + b'\x59\x59' + frame2
     dummy = DummySerial(data)
     monkeypatch.setattr('serial.Serial', lambda port, baud, timeout: dummy)
+    # Skip matplotlib initialization in test
+    monkeypatch.setattr(TF03Visualizer, '_init_plot', lambda self: None)
     vis = TF03Visualizer(port='COMX')
     count = vis.read_sensor()
     assert count == 2
