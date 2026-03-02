@@ -85,14 +85,14 @@ Tests cover frame parsing, visualization buffer handling, and analysis logic.
 
 ## Project Structure
 
-```
+```text
 ├── tf03/                # Python package
 │   ├── __init__.py
 │   ├── reader.py        # serial reader & visualizer
 │   └── analyzer.py      # data analysis functions
 ├── tests/               # pytest test cases
 ├── read_tf03.py         # CLI launcher
-├── analyze_tf03_data.py # standalone analyzer (legacy)
+├── debug_serial.py      # Serial debugging utility
 ├── requirements.txt
 └── README.md
 ```
@@ -100,4 +100,3 @@ Tests cover frame parsing, visualization buffer handling, and analysis logic.
 ## License
 
 MIT (or whichever license you prefer)
-
