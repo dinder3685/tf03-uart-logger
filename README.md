@@ -15,8 +15,7 @@
     Your browser does not support the video tag.
   </video> |
 
-> **Suggested flow:** Watch the collection process first, then the visualization to understand the full workflow.
-
+  
 
 ##  Characteristics of UART 
 
