@@ -3,12 +3,9 @@
 <img width="823" height="482" alt="image" src="https://github.com/user-attachments/assets/341c8ac3-f512-4605-b863-80818d22b242" />
 
 
-# LiDAR Demo
-
 | Data Collection | Data Visualization |
 |-----------------|------------------|
-| [![Data Collection](https://via.placeholder.com/320x240.png?text=Video+1)](https://github.com/user-attachments/assets/e64940a8-5340-4b90-9953-d97febfcde1a) | [![Data Visualization](https://via.placeholder.com/320x240.png?text=Video+2)](https://github.com/user-attachments/assets/e7fcd682-2661-4824-a6d8-619f52baa2d9) |
-  
+| [![Video1](https://img.youtube.com/vi/VIDEO_ID_1/0.jpg)](https://youtu.be/VIDEO_ID_1) | [![Video2](https://img.youtube.com/vi/VIDEO_ID_2/0.jpg)](https://youtu.be/VIDEO_ID_2) |
 
 ##  Characteristics of UART 
 
