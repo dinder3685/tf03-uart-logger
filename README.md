@@ -3,9 +3,14 @@
 <img width="823" height="482" alt="image" src="https://github.com/user-attachments/assets/341c8ac3-f512-4605-b863-80818d22b242" />
 
 
-| Data Collection | Data Visualization |
-|-----------------|------------------|
-| https://github.com/user-attachments/assets/e64940a8-5340-4b90-9953-d97febfcde1a | [[![Video2](https://img.youtube.com/vi/VIDEO_ID_2/0.jpg)](https://youtu.be/VIDEO_ID_2)](https://github.com/user-attachments/assets/e7fcd682-2661-4824-a6d8-619f52baa2d9)  |
+## Demo Video 
+
+
+https://github.com/user-attachments/assets/e64940a8-5340-4b90-9953-d97febfcde1a
+
+---------------------------
+https://github.com/user-attachments/assets/e7fcd682-2661-4824-a6d8-619f52baa2d9
+
 
 ##  Characteristics of UART 
 
