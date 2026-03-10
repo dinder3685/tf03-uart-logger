@@ -1,5 +1,10 @@
 # TF03 Serial Sensor Library
 
+<img width="823" height="482" alt="image" src="https://github.com/user-attachments/assets/341c8ac3-f512-4605-b863-80818d22b242" />
+Characteristics of UART 
+![Uploading image.png…]()
+
+
 This repository provides a small Python package for interacting with the TF03
 LiDAR distance sensor over a serial connection. It includes a real‑time
 visualizer, CSV logging, and post‑test analysis tools.
