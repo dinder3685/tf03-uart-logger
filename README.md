@@ -2,6 +2,14 @@
 
 <img width="823" height="482" alt="image" src="https://github.com/user-attachments/assets/341c8ac3-f512-4605-b863-80818d22b242" />
 
+
+## Demo Video
+
+
+https://github.com/user-attachments/assets/e7fcd682-2661-4824-a6d8-619f52baa2d9
+
+
+
 ##  Characteristics of UART 
 
 <img width="889" height="493" alt="image" src="https://github.com/user-attachments/assets/a8451790-e8f0-49b4-8ae6-3386533ebee8" />
