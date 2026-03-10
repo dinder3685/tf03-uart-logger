@@ -3,13 +3,17 @@
 <img width="823" height="482" alt="image" src="https://github.com/user-attachments/assets/341c8ac3-f512-4605-b863-80818d22b242" />
 
 
-### 1. Data Collection Process
-[Watch Video](https://github.com/user-attachments/assets/e64940a8-5340-4b90-9953-d97febfcde1a)  
-Shows the LiDAR setup in action and how measurements are collected.
+# LiDAR Demo
 
-### 2. Collected Data Visualization
-[Watch Video](https://github.com/user-attachments/assets/e7fcd682-2661-4824-a6d8-619f52baa2d9)  
-Visualizes the collected data as point clouds and real-time plots, highlighting the results.
+| Data Collection | Data Visualization |
+|-----------------|------------------|
+| <video width="320" height="240" controls autoplay loop muted>
+    <source src="https://github.com/user-attachments/assets/e64940a8-5340-4b90-9953-d97febfcde1a" type="video/mp4">
+    Your browser does not support the video tag.
+  </video> | <video width="320" height="240" controls autoplay loop muted>
+    <source src="https://github.com/user-attachments/assets/e7fcd682-2661-4824-a6d8-619f52baa2d9" type="video/mp4">
+    Your browser does not support the video tag.
+  </video> |
 
 > **Suggested flow:** Watch the collection process first, then the visualization to understand the full workflow.
 
