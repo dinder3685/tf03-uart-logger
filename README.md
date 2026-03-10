@@ -14,7 +14,7 @@
 -----------------------------
 [Datasheet]([datasheet]([url](https://en.benewake.com/uploadfiles/2024/04/20240426134845102.pdf)) )
 
-[datasheet]([url](https://en.benewake.com/uploadfiles/2024/04/20240426134845102.pdf)) 
+https://en.benewake.com/uploadfiles/2024/04/20240426134845102.pdf
 
 This repository provides a small Python package for interacting with the TF03
 LiDAR distance sensor over a serial connection. It includes a real‑time
